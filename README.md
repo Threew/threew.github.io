@@ -1,2 +1,2 @@
--  [一封信](a_mail.md)
+-  [一封信](blob/master/a_mail.md)
 -  [关于作者](about_me.md)
